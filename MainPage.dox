@@ -1,0 +1,9 @@
+/**
+@mainpage Dokumentacja zadania telefony
+
+### Opis programu
+
+Program implementuje podstawowe operacje na przekierowaniach numerów telefonów.
+Struktura przekierowań oparta jest na trie.
+
+*/
